@@ -1,0 +1,45 @@
+[submodule "libbfio"]
+	path = libbfio
+	url = https://github.com/libyal/libbfio.git
+[submodule "libcdata"]
+	path = libcdata
+	url = https://github.com/libyal/libcdata.git
+[submodule "libcerror"]
+	path = libcerror
+	url = https://github.com/libyal/libcerror.git
+[submodule "libcfile"]
+	path = libcfile
+	url = https://github.com/libyal/libcfile.git
+[submodule "libclocale"]
+	path = libclocale
+	url = https://github.com/libyal/libclocale.git
+[submodule "libcnotify"]
+	path = libcnotify
+	url = https://github.com/libyal/libcnotify.git
+[submodule "libcpath"]
+	path = libcpath
+	url = https://github.com/libyal/libcpath.git
+[submodule "libcsplit"]
+	path = libcsplit
+	url = https://github.com/libyal/libcsplit.git
+[submodule "libcthreads"]
+	path = libcthreads
+	url = https://github.com/libyal/libcthreads.git
+[submodule "libfcache"]
+	path = libfcache
+	url = https://github.com/libyal/libfcache.git
+[submodule "libfdata"]
+	path = libfdata
+	url = https://github.com/libyal/libfdata.git
+[submodule "libfdatetime"]
+	path = libfdatetime
+	url = https://github.com/libyal/libfdatetime.git
+[submodule "libfvalue"]
+	path = libfvalue
+	url = https://github.com/libyal/libfvalue.git
+[submodule "libfwnt"]
+	path = libfwnt
+	url = https://github.com/libyal/libfwnt.git
+[submodule "libuna"]
+	path = libuna
+	url = https://github.com/libyal/libuna.git

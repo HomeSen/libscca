@@ -145,18 +145,4 @@ stamp-h[1-9]
 /tests/tmp*
 
 # Local library dependencies specific files
-/libbfio
-/libcdata
-/libcerror
-/libcfile
-/libclocale
-/libcnotify
-/libcpath
-/libcsplit
-/libcthreads
-/libfcache
-/libfdata
-/libfdatetime
-/libfvalue
-/libfwnt
-/libuna
+# local libraries have been added as submodules, and are thus ignored with regards to the main repository
